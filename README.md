@@ -6,8 +6,7 @@ A simple and visually appealing clone of Spotify's user interface built using **
 
 ## 🖥️ Demo
 
-![Spotify Clone live_demo]( https://anil2995.github.io/spotify-clone/) 
-> *(Replace with your actual screenshot or a link to the hosted project)*
+   Live Demo : https://anil2995.github.io/spotify-clone/
 
 ---
 
